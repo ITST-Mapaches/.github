@@ -1,10 +1,9 @@
-# ITST - Mapaches
+# ITST - Mapaches🦝
 
-## Descripción
 
 Bienvenido a la página de GitHub de ITST - Mapaches. En esta plataforma, compartimos y colaboramos en proyectos emocionantes que abarcan las materias del Instituto Tecnológico Superior de Teziutlán (ITST).
 
-## Cómo Contribuir
+## Cómo Contribuir 🌟
 
 ¡Nos encantaría que contribuyeras! Si estás interesado en participar en alguno de nuestros proyectos, sigue estos pasos:
 
@@ -17,7 +16,7 @@ Bienvenido a la página de GitHub de ITST - Mapaches. En esta plataforma, compar
 7. Abre un Pull Request en la página del repositorio original.
 
 
-## Contacto
+## Contacto 📧
 
 Si tienes preguntas o sugerencias, no dudes en ponerte en contacto con nosotros:
 
